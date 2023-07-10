@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className="header">
       <div className="headerLeft">
-        <Link to="/">
+        <Link to="/FILM-EE">
           <img className="headerIcon" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logomr.png" />
         </Link>
         <Link to="/movies/popular" style={{textDecoration: "none"}}><span>Recent Populars</span></Link>
