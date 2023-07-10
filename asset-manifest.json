@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FILM-EE/static/css/main.82988cc7.css",
+    "main.js": "/FILM-EE/static/js/main.2208dfe7.js",
+    "index.html": "/FILM-EE/index.html",
+    "main.82988cc7.css.map": "/FILM-EE/static/css/main.82988cc7.css.map",
+    "main.2208dfe7.js.map": "/FILM-EE/static/js/main.2208dfe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82988cc7.css",
+    "static/js/main.2208dfe7.js"
+  ]
+}
